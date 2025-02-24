@@ -130,34 +130,3 @@ int main(){
 
     return 0;
 }
-
-// 1) Créer les variables et le tableau (matrice)
-// 2) Initialiser un tableau pour les directions
-
-// 3) Créer la fonction pour générer le labyrinthe
-// 3a) Changer la case actuelle en ' ' (espace vide)
-// 3b) Mélanger les directions
-// 3c) Explorer les passages
-// 3d) Vérifier si les nouvelles coordonnées sont dans les limites du labyrinthe et si c'est un mur
-// 3e) Changer la case en ' ' et envoyer les nouvelles coordonnées
-
-// 4) Choix aléatoire d'une case vide
-// 4a) Scanner toutes les cases vides du labyrinthe
-// 4b) Choisir aléatoirement une de ces cases vides
-
-// 5) Créer la fonction pour trouver le chemin
-
-// 6) Customisation du labyrinthe
-// 6a) Ajout des couleurs en fonction des caractères
-// 6b) Affichage du labyrinthe
-
-// 7) Initialiser les variables et le tableau
-// 7a) Demander à l'utilisateur de saisir les dimensions (doivent être impaires)
-// 7b) Vérifier que les dimensions sont bien impaires
-// 7c) Associer les dimensions saisies avec la matrice
-
-// 8) Générer le labyrinthe 
-// 8a) Choisir aléatoirement les positions de 'S' et 'E'
-// 8b) L'afficher (version non résolu)
-
-// 9) Afficher le labyrinthe (version résolu)
